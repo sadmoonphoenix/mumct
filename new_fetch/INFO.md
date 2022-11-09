@@ -1,1 +1,1 @@
-Links to the newest versions of various distros. 
+The program fetches here for various info.
